@@ -7,7 +7,7 @@ demo: false
 photo: "https://media-exp1.licdn.com/dms/image/C4E03AQEtDWpxRgKE7Q/profile-displayphoto-shrink_800_800/0/1517685035202?e=1635379200&v=beta&t=anfAWW2ows3VSoGKGyY4SlDcp4MjT3nyejWxxXEEZKA"
 name: "Justin Selleck"
 # copy: "I'm a UI/UX Developer based in Vancouver, Canada. More than five years of experience in design/development and have a passion for giving back to the local tech community as an instructor."
-copy: "A Principal Solutions Architect, DevOps Expert, and Software Engineer. Specializes in bridging the gap between the Developer Community and Cloud Operations using Declaritive State"
+copy: "A Principal Solutions Architect, DevOps Expert, and Software Engineer. Specializes in bridging the gap between the Developer Community and Cloud Operations using Declarative State"
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
