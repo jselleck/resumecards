@@ -1,0 +1,8 @@
+---
+type: "Education"
+heading: "Colorado State University"
+subheading: "Master's Degree in CIS"
+duration: "2012 – 2015"
+---
+
+Studied Agile Project Management, Enterprise Computing and Systems Integration, Business DB Systems, Object Oriented Systems, Data Visualization and Data Science, Java, PHP, VB.NET, etc.
